@@ -19,7 +19,7 @@ export default function ABOUT() {
         <span className="text-md  font-mono">
           Meta waifu is collection of 666 all time favorate Anime charecter's
           with 15 million possible combinations with 150+ unique parts available
-          in the lower layers of the Polygon Blockchain.
+          in the lower layers of the Ethereum Blockchain.
         </span>
         <div className="flex space-x-6 p-5">
           <div className="flex items-center space-x-4 rounded-xl border bg-white bg-opacity-60 px-5 py-4 backdrop-blur-lg backdrop-filter hover:cursor-pointer">
